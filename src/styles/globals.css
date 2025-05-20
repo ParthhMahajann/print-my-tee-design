@@ -1,0 +1,10 @@
+
+/* Additional global styles */
+.design-area {
+  transition: border-color 0.3s;
+}
+
+.design-area:hover {
+  border-color: #3498db;
+}
+
